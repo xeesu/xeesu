@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xeesu
 - 👀 I’m interested in making various content.
-Such as video editing, producing, directing, etc...
-But now on, What I'm most interested in is coding something. 
+- Such as video editing, producing, directing, etc...
+- But now on, What I'm most interested in is coding something. 
 - 🌱 I’m currently learning front-end programming through lectures provided by the Codeit.
 - 📫 How to reach me dlwltn283@gmail.com
 
